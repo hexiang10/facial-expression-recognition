@@ -1,10 +1,16 @@
-# 【Pytorch】基于卷积神经网络实现的面部表情识别
+# 【Pytorch】基于卷积神经网络实现的人脸面部表情识别
 
 > 作者：何翔 				 学院：计算机学院
 >
-> 学号：04191315		班级：软件1903
+> 学号：04191315		 班级：软件1903
 >
-> 转载请标注本文链接： https://www.cnblogs.com/He-Xiang-best/p/15690252.html
+> 转载或引用请标注本文链接： https://www.cnblogs.com/He-Xiang-best/p/15690252.html
+>
+> 答辩视频地址：https://www.bilibili.com/video/BV1JR4y1W7Vw?spm_id_from=333.999.0.0
+>
+> 本项目的数据集文件下载地址：https://download.csdn.net/download/HXBest/64847238
+>
+> 本项目的训练模型文件下载地址：https://download.csdn.net/download/HXBest/64955910
 >
 > 欢迎一起交流学习呀！
 
@@ -13,6 +19,8 @@
 | ![image](https://img-blog.csdnimg.cn/img_convert/cece57138556f8ebe17ea8521e3114e1.png)  | ![image](https://img-blog.csdnimg.cn/img_convert/96321ca49ce798da3095c0cb4c2bcafa.png)| ![image](https://img-blog.csdnimg.cn/img_convert/4488f9f9de1c18bb21c82f5657598d0d.png)
 
 ---
+[TOC]
+
 # 一、绪论
 
 ## 1.1 研究背景
