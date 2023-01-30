@@ -8,19 +8,21 @@
 >
 > 班级：软件1903
 >
-> 转载或引用请标注本文链接：https://blog.csdn.net/HXBest/article/details/121981276
+> 答辩视频地址：https://www.bilibili.com/video/BV1JR4y1W7Vw
 >
-> 答辩视频地址：https://www.bilibili.com/video/BV1JR4y1W7Vw?spm_id_from=333.999.0.0
+> 转载或引用请标注本文链接：https://blog.csdn.net/HXBest/article/details/121981276
 >
 > 本项目的数据集文件下载地址：https://download.csdn.net/download/HXBest/64847238
 >
 > 本项目的训练模型文件下载地址：https://download.csdn.net/download/HXBest/64955910
 >
-> 欢迎一起交流学习呀！
+> 如有问题，欢迎在issue中反馈，或通过bilibili私信
 
-| 微信                                                         | B站号                                                       | 公众号                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image](https://img-blog.csdnimg.cn/img_convert/cece57138556f8ebe17ea8521e3114e1.png)  | ![image](https://img-blog.csdnimg.cn/img_convert/96321ca49ce798da3095c0cb4c2bcafa.png)| ![image](https://img-blog.csdnimg.cn/img_convert/4488f9f9de1c18bb21c82f5657598d0d.png)
+
+|                           bilibili                           |                   WeChat official account                    |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img width="60%" src="https://img-blog.csdnimg.cn/img_convert/96321ca49ce798da3095c0cb4c2bcafa.png"> | <img width="50%" src="https://img-blog.csdnimg.cn/img_convert/4488f9f9de1c18bb21c82f5657598d0d.png"> |
+
 
 ---
 
