@@ -22,9 +22,9 @@ LR = 0.01
 EPOCH = 60
 DEVICE = torch.device('cpu')
 
-
-path_train = '你选定模型的数据集'
-path_vaild = '你选定模型的验证集'
+#这里直接用分好的训练集和验证集
+path_train = '你选定模型的训练集'#train文件夹
+path_vaild = '你选定模型的验证集'#valid文件夹
 
 transforms_train = transforms.Compose([
     transforms.Grayscale(),#使用ImageFolder默认扩展为三通道，重新变回去就行
